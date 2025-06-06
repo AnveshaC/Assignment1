@@ -6,7 +6,7 @@ c=a+b
 d=a-b
 e=a*b
 f=a/b
-print("Additon :",c)
+print("Addition :",c)
 print("subtraction:",d)
 print("multiplication:",e)
 print("division:",f)
